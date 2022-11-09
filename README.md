@@ -1,2 +1,2 @@
 # Stardew-Mods
-theme = minima
+theme: minima
